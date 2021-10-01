@@ -17,11 +17,10 @@ from datetime import datetime, timedelta
 
 
 # Step 1 - Authenticate
-CONSUMER_KEY= 'SgqPbWWvqTGPTHy8E3x6pdstW'
-CONSUMER_KEY_SECRET= 'WOh5trXoQqOgPpOA34nU5LiXTGYon4DUq4Z6IdrwgIiJwTbro5'
-
-ACCESS_TOKEN='1343849853265145858-SVzu7ZmphqPZsfZEaikk6VgvtSu04C'
-ACCESS_TOKEN_SECRET='V8xGQ6UzPHTmef5Kd2DWu5oCyGXDMFgri0aICRaRA3jb5'
+consumer_key = 'change with your consumer key'
+consumer_secret = 'change with your consumer secret'
+access_token = 'change with your access token'
+access_secret = 'change with your access secret'
 
 userName = '@JoeBiden'
 hashtags = []
